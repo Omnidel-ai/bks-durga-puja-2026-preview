@@ -6,13 +6,13 @@ This is not LIVE. Not official. Not a confirmed event. Not a production website.
 
 Send Ram Sir to this URL only:
 
-**https://asitsarkar-crypto.github.io/bks-durga-puja-2026-preview/prototype/**
+**https://omnidel-ai.github.io/bks-durga-puja-2026-preview/prototype/**
 
-Bengali: **https://asitsarkar-crypto.github.io/bks-durga-puja-2026-preview/prototype/?lang=bn**
+Bengali: **https://omnidel-ai.github.io/bks-durga-puja-2026-preview/prototype/?lang=bn**
 
-Root redirect: https://asitsarkar-crypto.github.io/bks-durga-puja-2026-preview/
+Root redirect: https://omnidel-ai.github.io/bks-durga-puja-2026-preview/
 
-Private source snapshot (same files): https://github.com/asitsarkar-crypto/bks-durga-puja-2026-preview
+Source (OmniDel.ai GitHub org, isolated preview repo): https://github.com/Omnidel-ai/bks-durga-puja-2026-preview
 
 ---
 
@@ -20,10 +20,11 @@ Private source snapshot (same files): https://github.com/asitsarkar-crypto/bks-d
 
 | URL | Why not |
 | --- | --- |
+| `https://asitsarkar-crypto.github.io/bks-durga-puja-2026-preview/` | First Pages attempt on a personal GitHub account. **Superseded.** Use the OmniDel.ai URL above. |
 | `https://bks-durga-puja-2026-preview.vercel.app/` | Isolated Vercel project exists, but the published alias is an **incomplete stub**. Vercel SSO also walls preview deploys. **Do not send Ram Sir here.** |
 | `https://bks-brand-system-demo.vercel.app` | Existing BKS Brand System demo. **Not touched.** |
 | Chapter / production domains | **Not touched.** |
-| jsDelivr HTML | Serves this snapshot as `text/plain`. CSS/JS/JSON MIME types are fine; HTML is not a usable review page. |
+| OmniDel production GitHub repos | **Not touched.** This preview is a separate repo. |
 
 ---
 
@@ -114,7 +115,7 @@ Nothing in that register was closed by this preview.
 
 ## Known limitations
 
-- GitHub Pages host is a **public** repository so the static files can be served. Search indexing is blocked (`robots.txt` + `noindex`). Do not submit the URL to search consoles.
+- GitHub Pages host is a **public** repository under **Omnidel-ai** so Ram Sir can open it without a GitHub login. Search indexing is blocked (`robots.txt` + `noindex`). Do not submit the URL to search consoles.
 - Optional Google Fonts (`Baloo Da 2`, `Hind Siliguri`, `display=optional`) may not always transfer; the system stack still renders.
 - Unused local seal/logo files (`bks-seal.png`, `bks-logo.png`) were **not** uploaded.
 - Research notes, checkpoints, Purulia / Vatika / Biophilic / OmniSocial / Supabase files were **not** uploaded.
@@ -127,6 +128,6 @@ Nothing in that register was closed by this preview.
 
 Verified authenticated Vercel team: ram badrinathan’s projects. Existing projects including `bks-brand-system-demo`, `bks-west-bengal`, chapter sites, Vatika, Biophilic, and Omni* were **not** deployed to.
 
-This preview is GitHub Pages on a **new** repo: `asitsarkar-crypto/bks-durga-puja-2026-preview`.
+This preview is GitHub Pages on a **new isolated repo** in the OmniDel.ai org: `Omnidel-ai/bks-durga-puja-2026-preview`. OmniDel production repositories were not modified.
 
 **No production system was modified.**
