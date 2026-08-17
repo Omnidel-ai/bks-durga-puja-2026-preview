@@ -60,6 +60,12 @@ Use these eleven items. None of them is closed by this preview.
 
 ---
 
+## Phase 2.5 — human review pack (17 August 2026)
+
+Content lock preparation. Same isolated Pages URL. JSON mirrors synced to live HTML. Bengali remains **DRAFT**. No production deploy.
+
+Ram Sir pack: see the source repo files `BKS-DURGA-PUJA-2026-HUMAN-REVIEW-PACK.md` and `BKS-DURGA-PUJA-2026-CONTENT-APPROVAL-REGISTER.md` (not uploaded to this preview repo).
+
 ## Phase 2 on this preview (17 August 2026)
 
 Editorial pass only. Same static architecture. The Puja and Krishak Samaj now label **SOURCE FACT**, **BKS POSITIONING**, and **PENDING INFORMATION**. West Bengal integrated-farming research appears on Krishak Samaj only and is **not** a BKS achievement. 5,000 × ₹1 lakh remains a labelled campaign vision. Bengali additions remain **DRAFT — NATIVE REVIEW REQUIRED**. No payment. No voice agent.
