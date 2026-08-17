@@ -60,6 +60,10 @@ Use these eleven items. None of them is closed by this preview.
 
 ---
 
+## Phase 2 on this preview (17 August 2026)
+
+Editorial pass only. Same static architecture. The Puja and Krishak Samaj now label **SOURCE FACT**, **BKS POSITIONING**, and **PENDING INFORMATION**. West Bengal integrated-farming research appears on Krishak Samaj only and is **not** a BKS achievement. 5,000 × ₹1 lakh remains a labelled campaign vision. Bengali additions remain **DRAFT — NATIVE REVIEW REQUIRED**. No payment. No voice agent.
+
 ## What is implemented
 
 - Static hash-routed microsite (`prototype/index.html`). No framework.

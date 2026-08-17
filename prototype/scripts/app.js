@@ -186,7 +186,16 @@
     if (ogl) ogl.setAttribute("content", state.lang === "bn" ? "bn_IN" : "en_IN");
   }
 
-  window.addEventListener("hashchange", () => show(pageFromHash()));
+  window.addEventListener("hashchange", () => {
+    const page = pageFromHash();
+    show(page);
+    const active = document.querySelector(".view.is-active");
+    const heading = active && active.querySelector("h1");
+    if (heading) {
+      heading.setAttribute("tabindex", "-1");
+      heading.focus({ preventScroll: true });
+    }
+  });
   if (toggle && nav) {
     toggle.addEventListener("click", () => {
       const open = nav.classList.toggle("is-open");
